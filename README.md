@@ -36,17 +36,17 @@ Skill Doc の内容を身につけるためにある課題が [QUEST](quest) で
 ### 1. Linux/Git,GitHub
 
 1. Skill Doc を読む
-   1. [ゴールから逆算して学ぶことができる](/skilldoc/GOAL.md)
-   2. [Linux](/skilldoc/LINUX.md)
-   3. [Git](/skilldoc/GIT.md)
+   1. [ゴールから逆算して学ぶことができる](/skilldoc/GOAL.md)　✅
+   2. [Linux](/skilldoc/LINUX.md)　✅
+   3. [Git](/skilldoc/GIT.md)　✅
 2. QUEST を解く
    1. [ゴールから逆算して学ぶことができる](/quest/curiosity/GOAL.md)
-   2. [[linux][Level1] Linux が何かを説明できる](/quest/linux/LINUX.md)
-   3. [[linux][Level1] Linux の環境を用意することができる](/quest/linux/ENVIRONMENT.md)
-   4. [[linux][Level1] ディレクトリを操作できる](/quest/linux/DIRECTORY.md)
-   5. [[linux][Level1] マニュアルを確認できる](/quest/linux/MAN.md)
-   6. [[linux][Level1] ファイルを操作できる](/quest/linux/FILE.md)
-   7. [[linux][Level2] 標準入出力を扱える](/quest/linux/STANDARD.md)
+   2. [[linux][Level1] Linux が何かを説明できる](/quest/linux/LINUX.md)　✅
+   3. [[linux][Level1] Linux の環境を用意することができる](/quest/linux/ENVIRONMENT.md)　✅
+   4. [[linux][Level1] ディレクトリを操作できる](/quest/linux/DIRECTORY.md)　✅
+   5. [[linux][Level1] マニュアルを確認できる](/quest/linux/MAN.md)　✅
+   6. [[linux][Level1] ファイルを操作できる](/quest/linux/FILE.md)　✅
+   7. [[linux][Level2] 標準入出力を扱える](/quest/linux/STANDARD.md)　✅
    8. [[linux][Level2] パーミッションを操作できる](/quest/linux/PERMISSION.md)
    9. [[linux][Level3] プロセス・ジョブを管理できる](/quest/linux/PROCESS.md)
    10. [[linux][Level3] シェルスクリプトを書くことができる](/quest/linux/SHELLSCRIPT.md)
