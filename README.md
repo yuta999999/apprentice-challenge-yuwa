@@ -47,7 +47,7 @@ Skill Doc の内容を身につけるためにある課題が [QUEST](quest) で
    5. [[linux][Level1] マニュアルを確認できる](/quest/linux/MAN.md)　✅
    6. [[linux][Level1] ファイルを操作できる](/quest/linux/FILE.md)　✅
    7. [[linux][Level2] 標準入出力を扱える](/quest/linux/STANDARD.md)　✅
-   8. [[linux][Level2] パーミッションを操作できる](/quest/linux/PERMISSION.md)
+   8. [[linux][Level2] パーミッションを操作できる](/quest/linux/PERMISSION.md)✅
    9. [[linux][Level3] プロセス・ジョブを管理できる](/quest/linux/PROCESS.md)
    10. [[linux][Level3] シェルスクリプトを書くことができる](/quest/linux/SHELLSCRIPT.md)
    11. [[Git][Level1] コミットができる](/quest/git/COMMIT.md)
